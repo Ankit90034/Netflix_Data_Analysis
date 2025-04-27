@@ -4,7 +4,7 @@ Step-1
 1) First we have to clean the uncleaned data file in excel. Then we created six separate excel files that contain the clean data.
 2) Such as we created a new file of description etc.
 3) Then we convert each excel sheet to workbook
-4) Now we import these workbooks into mysql for the purpose of further data cleaning and setting up relational tables to imported in power bi.
+4) Now we import these workbooks into mysql for the purpose of further data cleaning and setting up relational tables to be imported in power bi.
 
 Step-2
 1) Now we download and install the mysql-power bi connector.
